@@ -1,6 +1,6 @@
 # Brief Description
 
-This is my note for [Design Pattern in Python corse](https://www.udemy.com/course/design-patterns-python/)
+This is my note for [Design Pattern in Python](https://www.udemy.com/course/design-patterns-python/) course
 
 # Gamma Categorization (Gang of Four Design Patterns)
 
